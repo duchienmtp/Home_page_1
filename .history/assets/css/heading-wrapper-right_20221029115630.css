@@ -1,0 +1,27 @@
+.heading-wrapper-right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading-link {
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+}
+
+.heading-link:nth-child(1) {
+    padding: 0 10px;
+}
+
+.heading-link:nth-child(2) {
+    padding: 0 15px 0 10px;
+}
+
+.heading-link:nth-child(3) {
+    padding: 12px 50px;
+    background-color: #000;
+    border-radius: 20px;
+    color: #fff;
+}

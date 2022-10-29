@@ -1,0 +1,11 @@
+.content-wrapper-right {
+    width: 40%;
+}
+
+.content-image {
+    width: 400px;
+    height: 100%;
+    margin-left: 174px;
+    background-size: cover;
+    background-color: #FAD0CC;
+}

@@ -1,0 +1,23 @@
+.heading-wrapper-right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading-link:nth-child(1) {
+    display: block;
+    padding: 0 10px;
+}
+
+.heading-link:nth-child(2) {
+    display: block;
+    padding: 0 15px 0 10px;
+}
+
+.heading-link:nth-child(3) {
+    display: block;
+    padding: 12px 26px;
+    background-color: #000;
+    border-radius: 20px;
+    
+}

@@ -1,0 +1,25 @@
+.content-wrapper-left {
+    width: 60%;
+}
+
+.content-label {
+
+}
+
+.content-decs {
+
+}
+
+.content-searchbar {
+    min-width: 350px;
+    display: flex;
+    align-items: center;
+    background-color: #FAD0CC;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.content-search {
+
+}

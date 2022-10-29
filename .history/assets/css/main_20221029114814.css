@@ -1,0 +1,18 @@
+@import "./heading-wrapper-left.css";
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FAD0CC;
+    padding: 30px 40px;
+}
+
+
+
+
+
+
+
+.content {
+    background-color: #FAD0CC;    
+}

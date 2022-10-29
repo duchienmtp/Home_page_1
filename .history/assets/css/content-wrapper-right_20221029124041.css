@@ -1,0 +1,10 @@
+.content-wrapper-right {
+    width: 40%;
+}
+
+.content-image {
+    width: 400px;
+    height: 100%;
+    margin-left: auto;
+    background-size: cover;
+}

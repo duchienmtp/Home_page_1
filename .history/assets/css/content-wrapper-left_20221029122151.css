@@ -1,0 +1,29 @@
+.content-wrapper-left {
+    width: 60%;
+}
+
+.content-label {
+
+}
+
+.content-decs {
+
+}
+
+.content-searchbar {
+    max-width: 350px;
+    display: flex;
+    align-items: center;
+    background-color: #FAD0CC;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.content-search {
+    width: 100%;
+    outline: none;
+    border: none;
+    height: 100%;
+    margin: auto 0;
+}

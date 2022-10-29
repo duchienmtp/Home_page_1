@@ -1,0 +1,39 @@
+.heading {
+    display: flex;
+    background-color: #FAD0CC;
+    padding: 30px 40px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.courses {
+    padding: 0 26px;
+}
+
+.courses-menu-label {
+    display: block;
+    font-size: 20px;
+}
+
+.courses-menu-icon {
+    font-size: 20px;
+}
+
+.courses-menu {
+
+}
+
+.courses-item {
+
+}
+
+.courses-item-link {
+
+}
+
+
+.content {
+    background-color: #FAD0CC;    
+}

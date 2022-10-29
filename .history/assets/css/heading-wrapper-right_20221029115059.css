@@ -1,0 +1,17 @@
+.heading-wrapper-right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading-link:nth-child(1) {
+    
+}
+
+.heading-link:nth-child(2) {
+
+}
+
+.heading-link:nth-child(1) {
+
+}

@@ -1,0 +1,16 @@
+@import "./heading-wrapper-left.css";
+@import "./heading-wrapper-right.css";
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FAD0CC;
+    padding: 30px 40px;
+}
+
+.content {
+    height: 400px;
+    background-color: #FAD0CC;    
+    padding: 30px 40px;
+    background: #FAD0CC url("../img/eat-sleep-study-repeat.webp") no-repeat f center right;
+}

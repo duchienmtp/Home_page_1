@@ -1,0 +1,15 @@
+.footer-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-item-rate {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.footer-item-label {
+    font
+}

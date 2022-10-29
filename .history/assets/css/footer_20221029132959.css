@@ -1,0 +1,13 @@
+.footer-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-item-rate {
+    font-size: 50px;
+    
+}
+
+.footer-item-label {
+
+}

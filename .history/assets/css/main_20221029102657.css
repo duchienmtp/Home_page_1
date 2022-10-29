@@ -1,0 +1,64 @@
+.heading {
+    display: flex;
+    background-color: #FAD0CC;
+    padding: 30px 40px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.courses {
+    position: relative;
+    padding: 0 26px;
+    height: ;
+    display: flex;
+    align-items: center;
+}
+
+.courses-menu-label {
+    display: block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.courses-menu-icon {
+    font-size: 20px;
+    padding: 0 5px;
+}
+
+.courses-menu {
+    background-color: #fff;
+    position: absolute;
+    top: 100%;
+    left: 26px;
+    right: 26px;
+    border-radius: 5px;
+    display: none;
+}
+
+.courses:hover .courses-menu {
+    display: block;
+}
+
+.courses-item {
+
+}
+
+.courses-item-link {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.courses-item:nth-child(2) {
+    border-top: 2px solid #f9f9f9;
+    border-bottom: 2px solid #f9f9f9;
+}
+
+
+.content {
+    background-color: #FAD0CC;    
+}
